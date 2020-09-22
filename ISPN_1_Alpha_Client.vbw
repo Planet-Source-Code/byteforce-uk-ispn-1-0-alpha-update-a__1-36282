@@ -1,0 +1,12 @@
+frmClient = 3, -12, 866, 681, , 22, 22, 601, 601, C
+frmLogin = 198, 198, 844, 777, , 138, 152, 717, 731, C
+PROBas = 154, 91, 733, 667, C
+frmIM = 88, 88, 689, 658, , 66, 66, 667, 636, C
+frmLogonStatus = 264, 264, 865, 834, C, 242, 242, 843, 812, C
+frmAlerter = 110, 110, 712, 680, C, 319, 506, 921, 1076, C
+modIMHandler = 242, 242, 844, 812, 
+modFileShareHandler = 0, 0, 602, 570, C
+modProfileHandler = 22, 22, 624, 592, C
+modISPN = 44, 44, 646, 614, 
+frmIMServiceSettings = 0, 0, 0, 0, C, 462, 7, 1064, 507, C
+frmUserInfo = 176, 176, 778, 746, C, 33, 23, 635, 593, C
