@@ -1,0 +1,16 @@
+frmClient = 177, 159, 700, 561, , 44, 44, 757, 572, C
+frmAbout = 88, 88, 801, 616, C, 22, 22, 735, 550, C
+frmAlerter = 22, 22, 735, 550, , 154, 154, 867, 682, C
+frmIM = 44, 44, 757, 572, Z, 176, 176, 889, 704, C
+frmIMServiceSettings = 66, 66, 779, 594, C, 198, 198, 911, 726, C
+frmUserInfo = 132, 132, 845, 660, C, 242, 242, 955, 770, C
+frmLogin = 88, 88, 801, 616, C, 198, 198, 911, 726, C
+frmLogonStatus = 110, 110, 823, 638, C, 44, 44, 646, 614, C
+modFileShareHandler = 264, 264, 866, 834, C
+modIMHandler = 44, 44, 646, 614, C
+modISPN = 88, 88, 801, 616, 
+modProfileHandler = 66, 66, 744, 610, 
+PROBas = 198, 198, 800, 768, C
+frmIconContainer = 154, 154, 756, 724, , 132, 132, 734, 702, C
+modAlertHandler = 242, 242, 844, 812, C
+frmAlertSettings = 220, 220, 898, 764, C, 88, 88, 770, 632, C

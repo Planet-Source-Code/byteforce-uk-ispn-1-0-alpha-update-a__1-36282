@@ -1,0 +1,9 @@
+frmServer = 66, 66, 645, 645, , 22, 22, 601, 601, C
+modUserQuery = 154, 154, 733, 733, 
+modGlobals = 264, 264, 844, 843, C
+frmServiceOptions = 176, 176, 778, 746, C, 0, 0, 602, 570, C
+modServerIMHandler = 88, 88, 690, 658, C
+modServerISPN = 110, 110, 712, 680, C
+modServerProfileHandler = 92, 112, 694, 682, C
+modServerAlertHandler = 154, 154, 756, 724, C
+frmUsers = 176, 176, 858, 746, Z, 66, 66, 779, 594, C
